@@ -1,1 +1,2 @@
-Fuck this Doc
+Бла бла бла
+git hi
